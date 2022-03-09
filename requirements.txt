@@ -3,10 +3,6 @@ asgiref==3.4.1
 attrs==21.4.0
 Automat==20.2.0
 CacheControl==0.12.6
-ceph==1.0.0
-ceph-volume==1.0.0
-cephfs==2.0.0
-cephfs-shell==0.0.1
 cffi==1.15.0
 chardet==4.0.0
 click==8.0.4
