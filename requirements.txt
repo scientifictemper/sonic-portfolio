@@ -2,7 +2,6 @@ appdirs==1.4.4
 asgiref==3.4.1
 attrs==21.4.0
 Automat==20.2.0
-btrfsutil==5.16.2
 CacheControl==0.12.6
 ceph==1.0.0
 ceph-volume==1.0.0
