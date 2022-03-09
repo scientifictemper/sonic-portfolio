@@ -31,7 +31,6 @@ libmsym==0.2.4
 Markdown==3.3.6
 more-itertools==8.10.0
 msgpack==1.0.3
-netsnmp-python==1.0a1
 ordered-set==4.0.2
 packaging==20.9
 pep517==0.12.0
