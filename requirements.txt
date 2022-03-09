@@ -27,7 +27,6 @@ hyperlink==21.0.0
 idna==3.3
 importlib-metadata==4.8.1
 incremental==21.3.0
-lensfun==0.3.3
 LibAppArmor==3.0.4
 libmsym==0.2.4
 lit==13.0.1.dev0
