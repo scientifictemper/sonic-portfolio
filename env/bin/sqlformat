@@ -1,4 +1,4 @@
-#!/home/sonic/Documents/Django/SimpleDjangoPortfolio-main/env/bin/python
+#!/home/sonic/Documents/Django/sonic-portfolio/env/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys

@@ -1,4 +1,4 @@
-#!/home/sonic/Documents/Django/SimpleDjangoPortfolio-main/env/bin/python
+#!/home/sonic/Documents/Django/sonic-portfolio/env/bin/python
 # When the django-admin.py deprecation ends, remove this script.
 import warnings
 

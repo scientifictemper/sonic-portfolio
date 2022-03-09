@@ -30,7 +30,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/sonic/Documents/Django/SimpleDjangoPortfolio-main/env"
+set -gx VIRTUAL_ENV "/home/sonic/Documents/Django/sonic-portfolio/env"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
